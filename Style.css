@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #fff8f0;
+    text-align: center;
+}
+
+header {
+    background-color: #7b241c;
+    color: white;
+    padding: 25px 10px;
+}
+
+nav {
+    background-color: #333;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+
+section {
+    padding: 30px 15px;
+}
+
+.food {
+    background-color: white;
+    margin: 15px auto;
+    padding: 15px;
+    max-width: 320px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px #ddd;
+}
+
+button {
+    background-color: #e67e22;
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 15px;
+}
